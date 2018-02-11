@@ -1,0 +1,15 @@
+{
+  "name": "enterpriseapplab1",
+  "version": "1.0.0",
+  "description": "Lab work for submision number 1 ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andrew Cosgrave Lyons",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "express": "^4.16.2",
+    "massive": "^4.6.3"
+  }
+}
